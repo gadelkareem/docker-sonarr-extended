@@ -1,14 +1,5 @@
 # [gadelkareem/sonarr-extended](https://github.com/gadelkareem/docker-sonarr-extended)
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/gadelkareem/unraid-templates/master/gadelkareem/img/sonarr.png" width="200"></td>
-    <td><img src="https://github.com/gadelkareem/docker-lidarr-extended/raw/main/.github/plus.png" width="100"></td>
-    <td><img src="https://raw.githubusercontent.com/gadelkareem/unraid-templates/master/gadelkareem/img/amtd.png" width="200"></td>
-  </tr>
- </table>
-
-
 
 ### What is Sonarr Extended:
 
