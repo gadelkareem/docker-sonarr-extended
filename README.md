@@ -1,5 +1,3 @@
-# Deprecated
-
 # [gadelkareem/sonarr-extended](https://github.com/gadelkareem/docker-sonarr-extended)
 
 <table>
